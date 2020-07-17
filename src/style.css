@@ -20,7 +20,8 @@ html {
 }
 
 .hero {
-  background: linear-gradient(rgba(247, 138, 255, 0.65), rgba(247, 218, 250, 0.65)), rgba(0, 0, 0, 0.55) url("/src/Imagenes/Nevado.jpg") no-repeat;
+  background-image: url(https://i.ibb.co/d0CFRPv/IMG-20180127-072509.jpg);
+  background: linear-gradient(rgba(247, 138, 255, 0.65), rgba(247, 218, 250, 0.65)), rgba(0, 0, 0, 0.55) url(https://i.ibb.co/d0CFRPv/IMG-20180127-072509.jpg) no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: rgb(0, 0, 0);
@@ -327,6 +328,5 @@ body.preloader-site {
   transform: translate(-50%, -50%);
   width: 120px;
 }
-
 .white
 {color:ghostwhite}
